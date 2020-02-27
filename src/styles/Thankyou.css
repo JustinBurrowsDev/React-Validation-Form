@@ -1,0 +1,17 @@
+.Thankyou {
+  height: 640px;
+  width: 60%;
+  display: block;
+  margin: 0 auto;
+  background: black;
+  color: white;
+  padding: 50px;
+}
+
+h1 {
+  text-align: center;
+}
+
+p {
+  text-align: center;
+}
